@@ -21,11 +21,20 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        android:text="Always providing the security you and your vehicle need."
         android:textColor="#F1E1E1"
         android:textSize="15sp"
         android:gravity="center"
-        android:layout_marginTop="15dp"/>
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yen always with Yu."
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#F1E1E1"
 
     <ImageView
         android:layout_width="100dp"
@@ -44,7 +53,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sologan here"
+        android:text="Yen always with Yu"
         android:textColor="#FFFFFF"
         android:textSize="15sp" />
 
